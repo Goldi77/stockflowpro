@@ -1,0 +1,16 @@
+{
+  "name": "stockflow-firebase-admin-backend",
+  "version": "2.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "express-rate-limit": "^8.5.2",
+    "firebase-admin": "latest",
+    "helmet": "^8.2.0"
+  }
+}
